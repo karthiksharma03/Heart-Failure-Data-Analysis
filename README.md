@@ -1,3 +1,5 @@
+![Heartbeat GIF](https://github.com/Your_Repository_Name/Your_GIF_Name.gif%29)
+
 # Heart Disease Data Analysis 🩺📊
 
 Welcome to the **Heart Disease Data Analysis** repository! In this project, we delve into valuable insights regarding heart attacks and their underlying causes.
@@ -30,4 +32,7 @@ Our project involves analyzing a comprehensive dataset that includes essential a
 Our analysis reveals that different types of chest pains are encountered during heart attacks. Notably, a significant number of heart attacks occur in **males**, likely due to stress-induced factors such as elevated heart rate, cholesterol levels, blood sugar, and blood pressure.
 
 Feel free to explore our findings and contribute relevant emojis and GIFs to make our readme file even more engaging! 🚀👨‍⚕️🔍
+
+
+
 
