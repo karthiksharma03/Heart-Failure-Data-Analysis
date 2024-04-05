@@ -1,4 +1,3 @@
-![Heartbeat GIF](https://github.com/Your_Repository_Name/Your_GIF_Name.gif%29)
 
 # Heart Disease Data Analysis 🩺📊
 
