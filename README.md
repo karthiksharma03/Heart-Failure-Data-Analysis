@@ -1,5 +1,5 @@
 
-# Heart Disease Data Analysis 🩺📊
+# Heart Failure Data Analysis 🩺📊
 
 Welcome to the **Heart Disease Data Analysis** repository! In this project, we delve into valuable insights regarding heart attacks and their underlying causes.
 
